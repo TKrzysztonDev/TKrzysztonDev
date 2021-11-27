@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TKrzysztonDev
+- 👋 Hi, I’m Tomasz Krzysztoń
 - 👀 I’m interested in Front-End Developing
 - 🌱 I’m currently learning Javascript, CSS, SASS, React.
 - 💞️ I’m looking to collaborate on some challenging projects to improve my skills.
